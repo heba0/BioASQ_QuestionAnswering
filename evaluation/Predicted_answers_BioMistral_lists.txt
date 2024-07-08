@@ -1,0 +1,133 @@
+
+
+Question: What clinical conditions influence the prognostic after the liver metastasis resection from colorectal cancer patients?
+Generated Answer: Question: What clinical conditions influence the prognostic after the liver metastasis resection from colorectal cancer patients?
+Answer: The prognostic after the liver metastasis resection from colorectal cancer patients is influenced by the number of liver metastases, the size of the largest liver metastasis, the presence of extrahepatic metast
+
+
+--------------------------------------------------
+
+Question: What drugs are effective for the treatment of EGFR inhibitors skin rash?
+Generated Answer: Question: What drugs are effective for the treatment of EGFR inhibitors skin rash?
+Answer: Oral antihistamines, topical corticosteroids, oral corticosteroids, phototherapy, and systemic corticosteroids.
+
+
+--------------------------------------------------
+
+Question: What are major complications of mastoiditis?
+Generated Answer: Question: What are major complications of mastoiditis?
+Answer: Malignant otitis externa, facial necrosis, osteomyelitis, intracranial abscess, cavernous sinus thrombosis, and meningitis
+
+
+--------------------------------------------------
+
+Question: Which DNA language models currently exist to model the human genome?
+Generated Answer: Question: Which DNA language models currently exist to model the human genome?
+Answer: There are several DNA language models that have been developed to model the human genome. These models can be broadly categorized into two types: generative models and discriminative models. Generative models, such as variational autoencoders
+
+
+--------------------------------------------------
+
+Question: What biomarkers are used for the identification of neonatal sepsis in low-income countries?
+Generated Answer: Question: What biomarkers are used for the identification of neonatal sepsis in low-income countries?
+Answer: C-reactive protein (CRP), procalcitonin (PCT), and interleukin-6 (IL-6)
+
+
+--------------------------------------------------
+
+Question: What clinical indications does the self-expanding colon stent have in colorectal cancer patients?
+Generated Answer: Question: What clinical indications does the self-expanding colon stent have in colorectal cancer patients?
+Answer: The self-expanding colon stent is mainly used in patients with obstructive colorectal cancer who are not candidates for surgical resection. It can also be used in patients with obstructive colorectal cancer who
+
+
+--------------------------------------------------
+
+Question: List the cells which have CD21 on the surface.
+Generated Answer: Question: List the cells which have CD21 on the surface.
+Answer: B lymphocytes, follicular dendritic cells
+
+
+--------------------------------------------------
+
+Question: What are the molecular mechanisms for secondary resistance to Bevacizumab in advanced colorectal cancer patients?
+Generated Answer: Question: What are the molecular mechanisms for secondary resistance to Bevacizumab in advanced colorectal cancer patients?
+Answer: Secondary resistance to Bevacizumab in advanced colorectal cancer patients is mediated by a variety of molecular mechanisms, including the activation of alternative proangiogenic pathways, such as the FGF/FGFR,
+
+
+--------------------------------------------------
+
+Question: Which cell states can exist in melanomas?
+Generated Answer: Question: Which cell states can exist in melanomas?
+Answer: Melanomas can exist in a variety of cell states, including melanocytic, neural crest-like, mesenchymal, and immune cell-like states.
+
+
+--------------------------------------------------
+
+Question: What are active ingredients of Xacduro?
+Generated Answer: Question: What are active ingredients of Xacduro?
+Answer: The active ingredient of Xacduro is Xanthomonas campestris pv. vesicatoria.
+
+
+--------------------------------------------------
+
+Question: What enzymes are inhibited by Vorasidenib?
+Generated Answer: Question: What enzymes are inhibited by Vorasidenib?
+Answer: Vorasidenib is a tyrosine kinase inhibitor that selectively inhibits FGFR1, FGFR2, FGFR3, and FGFR4.
+
+
+--------------------------------------------------
+
+Question: What chromatin signatures are characteristic of active enhancers?
+Generated Answer: Question: What chromatin signatures are characteristic of active enhancers?
+Answer: H3K4me1, H3K27ac, H3K4me3, H3K79me2, H3K9ac, H3K9me3, H3K27me3,
+
+
+--------------------------------------------------
+
+Question: What are the types of Ehlers-Danlos Syndrome?
+Generated Answer: Question: What are the types of Ehlers-Danlos Syndrome?
+Answer: Ehlers-Danlos Syndrome (EDS) is an umbrella term for a group of connective tissue disorders that affect the skin, joints, and internal organs. There are currently 13 different types of E
+
+
+--------------------------------------------------
+
+Question: Which are the clinical indications for the use of Raltitrexed in patients with colorectal cancer?
+Generated Answer: Question: Which are the clinical indications for the use of Raltitrexed in patients with colorectal cancer?
+Answer: Raltitrexed is indicated for the treatment of patients with advanced colorectal cancer after failure of fluoropyrimidine, oxaliplatin, and irinotecan based chemotherapy. Raltitrex
+
+
+--------------------------------------------------
+
+Question: Please list the findings in lateral medullary (Wallenberg) syndrome
+Generated Answer: Question: Please list the findings in lateral medullary (Wallenberg) syndrome
+Answer: Lateral medullary syndrome, also known as Wallenberg syndrome, is a rare neurological disorder characterized by damage to the lateral medulla. The lateral medulla is part of the brainstem and is responsible for
+
+
+--------------------------------------------------
+
+Question: What are the targets of Tarlatamab?
+Generated Answer: Question: What are the targets of Tarlatamab?
+Answer: NTRK1, NTRK2, NTRK3
+
+
+--------------------------------------------------
+
+Question: What diseases are included in the differential diagnosis of Ehlers-Danlos Syndrome?
+Generated Answer: Question: What diseases are included in the differential diagnosis of Ehlers-Danlos Syndrome?
+Answer: Marfan syndrome, Loeys-Dietz syndrome, familial thoracic aortic aneurysm and dissection syndrome, vascular Ehlers-Danlos syndrome, pseudoxanthoma elasticum, Williams
+
+
+--------------------------------------------------
+
+Question: Please list the selective endothelin A receptor antagonists
+Generated Answer: Question: Please list the selective endothelin A receptor antagonists
+Answer: bosentan, ambrisentan, sitaxentan
+
+
+--------------------------------------------------
+Question: What are the current approaches for gene therapy for Phenylketonuria (PKU)?
+Generated Answer: Question: What are the current approaches for gene therapy for Phenylketonuria (PKU)?
+Answer: The current approaches for gene therapy for Phenylketonuria (PKU) involve the use of adeno-associated viruses (AAVs) to deliver a functional copy of the phenylalanine hydroxylase
+
+
+--------------------------------------------------

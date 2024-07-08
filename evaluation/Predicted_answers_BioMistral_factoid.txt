@@ -1,0 +1,413 @@
+What is the prevalence of neurofibromatosis?
+Top 5 Generated Answers:
+1: correct
+Answer: The prevalence of neurofibromatosis is estimated to be 1 in 3,000.
+2:
+Answer: The prevalence of neurofibromatosis is 1 in 3,000.
+3: 
+Answer: The prevalence of neurofibromatosis is estimated to be 1 in 3,500.
+4: 
+Answer: The prevalence of neurofibromatosis is 1 in 3,500.
+5: 
+Answer: The prevalence of neurofibromatosis is 1 in 3000.
+
+--------------------------------------------------
+
+Question: What is the key transcription factor for melanocyte development and differentiation?
+Top 5 Generated Answers:
+1:  correct
+Answer: Melanocyte inducing transcription factor (MITF)
+2: 
+Answer: Melanocyte inducing transcription factor (MIFT)
+3: 
+Answer: Melanocyte inducing transcription factor (MITF).
+4: 
+Answer: Melanocyte inducing transcription factor
+5: 
+Answer: MITF
+
+
+--------------------------------------------------
+
+Question: What is the cause of Phenylketonuria (PKU)?
+Top 5 Generated Answers:
+1: correct
+Answer: Phenylketonuria (PKU) is an autosomal recessive disorder of phenylalanine (Phe) metabolism. It is caused by a deficiency of phenylalanine hydrox
+2:
+Answer: Phenylketonuria (PKU) is an autosomal recessive disorder of phenylalanine (Phe) metabolism caused by a deficiency of phenylalanine hydroxylase (
+3:
+Answer: Phenylketonuria (PKU) is an autosomal recessive disorder of phenylalanine (Phe) metabolism, caused by a deficiency of phenylalanine hydroxylase
+4:
+Answer: Phenylketonuria (PKU) is an autosomal recessive disorder of phenylalanine (Phe) metabolism caused by deficiency of phenylalanine hydroxylase (PA
+5:
+Answer: Phenylketonuria (PKU) is an autosomal recessive disorder of phenylalanine metabolism caused by a deficiency of phenylalanine hydroxylase, the enzyme
+
+
+--------------------------------------------------
+
+Question: Which disease is treated with nirsevimab?
+Top 5 Generated Answers:
+1: incorrect
+Answer: Nirsevimab is a monoclonal antibody used to treat severe coronavirus disease 2019 (COVID-19).
+2:
+Answer: Nirsevimab is a monoclonal antibody used to treat COVID-19.
+3:
+Answer: COVID-19 (SARS-CoV-2)
+4:
+Answer: COVID-19
+5:
+Answer: Nirsevimab is used to treat COVID-19.
+
+
+--------------------------------------------------
+
+Question: Burrow Ink Test can be used to diagnose which disease?
+Top 5 Generated Answers:
+1: incorrect
+Answer: Parkinson’s disease
+2:
+Answer: Parkinson’s Disease
+3:
+Answer: Huntington’s Disease
+4:
+Answer: Huntington’s disease
+5:
+Answer: Parkinson's disease
+
+
+--------------------------------------------------
+
+Question: What is the technique of choice to perform a caesarean section?
+Top 5 Generated Answers:
+1: correct
+Answer: The technique of choice to perform a caesarean section is a transverse incision of the abdominal wall and a vertical incision of the uterine wall.
+2:
+Answer: The technique of choice to perform a caesarean section is a transverse incision of the abdominal wall and a vertical incision of the uterus.
+3:
+Answer: The technique of choice to perform a caesarean section is a transverse incision of the abdominal wall followed by a vertical incision of the uterus.
+4:
+Answer: The technique of choice to perform a caesarean section is the transverse incision of the abdominal wall and the uterine incision.
+5:
+Answer: Combined spinal-epidural anaesthesia
+
+
+--------------------------------------------------
+
+Question: What is the faster length time for oxaliplatin infusion?
+Top 5 Generated Answers:
+1:correct
+Answer: The faster length time for oxaliplatin infusion is 2 h.
+2:
+Answer: The faster length time for oxaliplatin infusion is 2 hours.
+3:
+Answer: The faster length time for oxaliplatin infusion is 60 min.
+4:
+Answer: The faster length time for oxaliplatin infusion is 30 min.
+5:
+Answer: The faster length time for oxaliplatin infusion is 4 h.
+
+
+--------------------------------------------------
+
+Question: What disease is treated by Callosotomy?
+Top 5 Generated Answers:
+1: partially correct (the answer should be epolepsy)
+Answer: Hydrocephalus
+2:
+Answer: Callosotomy is a neurosurgical procedure in which the corpus callosum, a thick bundle of nerve fibers connecting the two hemispheres of the brain, is surgically severed. It is used as a treatment
+3:
+Answer: Callosotomy is a neurosurgical procedure in which the corpus callosum, a large bundle of nerve fibers connecting the two hemispheres of the brain, is surgically severed. It is used as a treatment
+4:
+Answer: Callosotomy is a neurosurgical procedure in which the corpus callosum, a thick bundle of nerve fibers connecting the two hemispheres of the brain, is surgically severed. It is primarily used as a
+5:
+Answer: Callosotomy is a neurosurgical procedure in which the corpus callosum, a thick bundle of nerve fibers connecting the two hemispheres of the brain, is surgically severed. Callosotomy is used
+
+
+--------------------------------------------------
+
+Question: From what age is it recommended to start population screening for colorectal cancer?
+Top 5 Generated Answers:
+1: correct
+Answer: 50 years
+2:
+Answer: 50 years of age
+3:
+Answer: From 50 years of age
+4:
+Answer: From the age of 50
+5:
+Answer: From the age of 50.
+
+
+--------------------------------------------------
+
+Question: How many people affected by Parkinson's Disease develop dementia?
+Top 5 Generated Answers:
+1: correct
+Answer: Approximately 30% of people affected by Parkinson's Disease develop dementia.
+2:
+Answer: Approximately 30% of people with Parkinson's Disease develop dementia.
+3:
+Answer: 20% to 30% of people with Parkinson's Disease develop dementia.
+4:
+Answer: Approximately 30% of people affected by Parkinson's Disease will develop dementia.
+5:
+Answer: Approximately 30% of people with Parkinson's Disease will develop dementia.
+
+
+--------------------------------------------------
+
+Question: What is the most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer?
+Top 5 Generated Answers:
+1: correct
+Answer: The most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer is pembrolizumab monotherapy.
+2:
+Answer: The most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer is pembrolizumab.
+3:
+Answer: The most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer is pembrolizumab plus chemotherapy.
+4:
+Answer: The most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer is unclear.
+5:
+Answer: The most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer remains to be determined.
+
+
+--------------------------------------------------
+
+Question: What is the cause of autosomal dominant Polycystic Kidney Disease?
+Top 5 Generated Answers:
+1: correct
+Answer: Mutations in PKD1 or PKD2 genes
+2:
+Answer: Mutations in the PKD1 or PKD2 genes
+3:
+Answer: Mutations in PKD1 and PKD2 genes
+4:
+Answer: Mutations in either the PKD1 or PKD2 gene
+5:
+Answer: Mutation in PKD1 or PKD2 gene
+
+
+--------------------------------------------------
+
+Question: By which method do micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation?
+Top 5 Generated Answers:
+1: correct
+Answer: Micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation by binding to the 3′ untranslated region (3′ UTR) of target messenger RNA (mRNA
+2:
+Answer: Micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation by binding to the 3′-untranslated region (3′-UTR) of target messenger RNA (m
+3:
+Answer: Micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation through the RNA-induced silencing complex (RISC).
+4:
+Answer: Micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation by binding to the 3′-untranslated region (3′-UTR) of target messenger RNAs (
+5:
+Answer: Micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation through the RNA-induced silencing complex (RISC) pathway.
+
+
+--------------------------------------------------
+
+Question: What is the cause of Autosomal Recessive Polycystic Kidney Disease?
+Top 5 Generated Answers:
+1: incorrect (it should be PKHD1 gene)
+Answer: Mutations in the PKD1 or PKD2 genes
+2:
+Answer: Mutations in PKD1 or PKD2 genes
+3:
+Answer: Mutations in the PKD1 and PKD2 genes
+4:
+Answer: Mutations in the PKD1 or PKD2 genes.
+5:
+Answer: Mutations in either the PKD1 or PKD2 gene
+
+
+--------------------------------------------------
+
+Question: What causes Mucormycosis?
+Top 5 Generated Answers:
+1: correct
+Answer: Mucormycosis is caused by fungi of the order Mucorales. The most common genera are Rhizopus, Mucor, Lichtheimia (formerly Absidia), and Apophysomy
+2:
+Answer: Mucormycosis is caused by fungi of the order Mucorales. The most common genera are Rhizopus, Mucor, Lichtheimia (formerly Absidia) and Apophysomy
+3:
+Answer: Mucormycosis is caused by fungi of the order Mucorales. The most common genera are Rhizopus, Mucor, Lichtheimia (formerly Absidia), Saksenaea,
+4:
+Answer: Mucormycosis is caused by fungi of the order Mucorales. The most common genera are Rhizopus, Mucor, Lichtheimia (formerly Absidia), and Rhizomuc
+5:
+Answer: Mucormycosis is caused by fungi of the order Mucorales. The most common genera are Rhizopus, Mucor, Lichtheimia, Saksenaea, and Apophysomyces
+
+
+--------------------------------------------------
+
+Question: When was the first case of human monkey pox diagnosed?
+Top 5 Generated Answers:
+1: correct
+Answer: The first case of human monkey pox was diagnosed in 1970.
+2:
+Answer: The first case of human monkey pox was diagnosed in the Democratic Republic of Congo in May 2018.
+3:
+Answer: The first case of human monkey pox was diagnosed in the Democratic Republic of the Congo in 1976.
+4:
+Answer: The first case of human monkey pox was diagnosed in the Democratic Republic of Congo in 1976.
+5:
+Answer: The first case of human monkey pox was diagnosed in the Democratic Republic of the Congo in 1970.
+
+
+--------------------------------------------------
+
+Question: What type of colorectal cancer screening is the most cost-effective for general population?
+Top 5 Generated Answers:
+1: correct
+Answer: Flexible sigmoidoscopy
+2:
+Answer: Colonoscopy every 10 years is the most cost-effective for general population.
+3:
+Answer: Fecal immunochemical test (FIT)
+4:
+Answer: Fecal occult blood test (FOBT)
+5:
+Answer: Fecal occult blood test (FOBT)-based screening
+
+
+--------------------------------------------------
+
+Question: Where would Odocoileus virginianus be found?
+Top 5 Generated Answers:
+1: correct
+Answer: White-tailed deer (Odocoileus virginianus) can be found in a variety of habitats, including deciduous and coniferous forests, shrublands, grasslands, and wetlands. They are native to
+2:
+Answer: White-tailed deer (Odocoileus virginianus) are found in a variety of habitats, including deciduous and coniferous forests, shrublands, grasslands, and wetlands. They are native to North
+3:
+Answer: White-tailed deer (Odocoileus virginianus) can be found in a variety of habitats, including forests, grasslands, deserts, and wetlands. They are native to North America, Central America, and
+4:
+Answer: White-tailed deer (Odocoileus virginianus) can be found in a variety of habitats, including forests, grasslands, deserts, and wetlands. They are native to North America and have been introduced to
+5:
+Answer: White-tailed deer (Odocoileus virginianus) are native to North America and can be found in a variety of habitats, including deciduous and coniferous forests, grasslands, swamps, and deserts
+
+
+--------------------------------------------------
+
+Question: What mutation is associated with the VEXAS syndrome?
+Top 5 Generated Answers:
+1: incorrect (it should be  UBA1 gene)
+Answer: VEXAS syndrome is an autosomal recessive disease caused by mutations in the VPS13A gene, which encodes the VPS13A protein.
+2:
+Answer: VEXAS syndrome is an autosomal recessive disease caused by biallelic mutations in the VPS13A gene, which encodes the VPS13A protein.
+3:
+Answer: VEXAS syndrome is an autosomal recessive disease caused by biallelic mutations in the VEXAS gene, which encodes the valosin-containing protein.
+4:
+Answer: VEXAS syndrome is an autosomal recessive disorder caused by mutations in the VPS13A gene, which encodes the VPS13A protein.
+5:
+Answer: VEXAS syndrome is an autosomal recessive disease caused by biallelic mutations in the VEXAS gene, which encodes the valosin-containing protein VCP.
+
+
+--------------------------------------------------
+
+Question: What is the cause of Prader-Willi Syndrome?
+Top 5 Generated Answers:
+1: correct
+Answer: Prader-Willi syndrome is caused by the lack of expression of certain genes on chromosome 15.
+2:
+Answer: Prader-Willi syndrome is caused by the absence of expression of certain genes on chromosome 15.
+3:
+Answer: Prader-Willi syndrome is caused by the absence of expression of certain genes on chromosome 15 of the paternal chromosome.
+4:
+Answer: Prader-Willi syndrome is caused by the absence of expression of certain genes on chromosome 15 of the paternally inherited chromosome.
+5:
+Answer: Prader-Willi syndrome is caused by the lack of expression of certain genes on chromosome 15 of the paternally inherited chromosome.
+
+
+--------------------------------------------------
+
+Question: What is the optimal timing of surgical resection after a neoadjuvant chemoradiotherapy for locally advanced rectal cancer patients?
+Top 5 Generated Answers:
+1: correct
+Answer: 8–12 weeks after completion of neoadjuvant chemoradiotherapy
+2:
+Answer: 8 weeks after the completion of neoadjuvant chemoradiotherapy
+3:
+Answer: 8–12 weeks after the completion of chemoradiotherapy
+4:
+Answer: 8 weeks after the completion of neoadjuvant chemoradiotherapy.
+5:
+Answer: 8–12 weeks after completion of chemoradiotherapy
+
+
+--------------------------------------------------
+
+Question: Are children affected by multiple sclerosis?
+Top 5 Generated Answers:
+1: debatable (technically all answers have a good point)
+Answer: Yes, children can be affected by multiple sclerosisiopathiciopathic.iopathic.
+2:
+Answer: Yes, children can be affected by multiple sclerosisiopathiciopathic.iopathic.iiopathic.i
+3:
+Answer: Yes, children can be affected by multiple sclerosisiopathiciopathic.iopathic.iiopathic.
+4:
+Answer: No, multiple sclerosis is an autoimmune disease that affects the central nervous system of adults.
+5:
+Answer: No, children are not affected by multiple sclerosis.
+
+
+--------------------------------------------------
+
+Question: What disease can be treated with Trofinetide?
+Top 5 Generated Answers:
+1: incorrect (it should be Rett syndrome)
+Answer: Amyotrophic lateral sclerosis
+2:
+Answer: Amyotrophic Lateral Sclerosis
+3:
+Answer: Huntington’s disease
+4:
+Answer: Alzheimer’s disease
+5:
+Answer: Amyotrophic lateralritis
+
+
+--------------------------------------------------
+
+Question: Which is the most reliable liquid biopsy technique after complete resection of  colorectal cancer metastases?
+Top 5 Generated Answers:
+1: correct 
+Answer: ctDNA
+2:
+Answer: Circulating cell-free DNA
+3:
+Answer: Circulating tumor cells
+4:
+Answer: Circulating tumor DNA
+5:
+Answer: Cell-free DNA
+
+
+--------------------------------------------------
+
+Question: Where is the tumor of follicular infundibulum usually found?
+Top 5 Generated Answers:
+1: incorrect (it should be skin or epiderm)
+Answer: The tumor of follicular infundibulum is usually found in the parotid gland.
+2:
+Answer: The tumor of follicular infundibulum is usually found in the parotid gland
+3:
+Answer: The tumor of follicular infundibulum is usually found in the pituitary gland.
+4:
+Answer: The tumor of follicular infundibulum is usually found in the parotid glands.
+5:
+Answer: The tumor of follicular infundibulum is usually found in the mediastinum.
+
+
+--------------------------------------------------
+Question: What is the cause of Rett Syndrome?
+Top 5 Generated Answers:
+1: correct
+Answer: Mutations in the methyl CpG binding protein 2 (MeCP2) gene.
+2:
+Answer: Mutations in the methyl CpG binding protein 2 (MECP2) gene.
+3:
+Answer: Mutations in the methyl CpG binding protein 2 (MeCP2) gene
+4:
+Answer: Mutations in the methyl CpG binding protein 2 (MECP2) gene
+5:
+Answer: Rett syndrome is caused by mutations in the X-linked MECP2 gene.
+
+
+--------------------------------------------------
