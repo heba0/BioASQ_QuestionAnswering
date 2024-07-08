@@ -1,0 +1,7 @@
+Bio
+torch
+transformers
+bert-score
+evaluate
+rouge_score
+faiss-cpu
