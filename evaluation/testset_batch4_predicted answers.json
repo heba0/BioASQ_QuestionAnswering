@@ -1,0 +1,561 @@
+{
+  "questions": [
+    {
+      "id": "65cfae831930410b13000015",
+      "type": "summary",
+      "body": "What is the use of P85-Ab?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662fc44b187cba990d000015",
+      "type": "list",
+      "body": "What are the indicated prophylaxis treatments for acute cholinergic syndrome secondary to irinotecan?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": "",
+    },
+    {
+      "id": "662cf81b187cba990d000001",
+      "type": "summary",
+      "body": "What is the function of FAM134B (also called JK-1, RETREG1)?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "661688cefdcbea915f000053",
+      "type": "list",
+      "body": "What cancers are associated with human papilloma virus?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662fdb1e187cba990d000019",
+      "type": "summary",
+      "body": "What is the role of the transcription factor activator protein 2 (AP-2) alpha (TFAP2A) in tumor formation and metastasis?",
+	  "ideal_answer": ""
+	},
+    {
+      "id": "66300f53187cba990d00001d",
+      "type": "list",
+      "body": "Which vaccines are safe to be administered for all pregnancies?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "65d36e761930410b13000044",
+      "type": "factoid",
+      "body": "What is the use of lebrikizumab?",
+	  "ideal_answer": "The use of lebrikizumab is for the treatment of moderate to severe atopic dermatitis in adults and adolescents (12 years of age and older) whose disease is not adequately controlled with topical therapy",
+	  "exact_answer": [["severe atopic dermatitis"]]
+    },
+    {
+      "id": "662fc981187cba990d000018",
+      "type": "yesno",
+      "body": "Is CT colonography a cost-effective test for colorectal cancer screening?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "662cf888187cba990d000002",
+      "type": "yesno",
+      "body": "is Cryoglobulinemic vasculitis (CV), also known as mixed cryoglobulinemic syndrome (MCS), a systemic vasculitis that affects large blood vessels.",
+	  "ideal_answer": "",
+	  "exact_answer": "no"
+	},
+    {
+      "id": "66155e7dfdcbea915f00004c",
+      "type": "list",
+      "body": "Consequences for the newborn of infection by Zika virus during pregnancy.",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66302090187cba990d00002a",
+      "type": "list",
+      "body": "Which are the key transcription factors known to drive glioma progression and therapy resistance?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662e29f9187cba990d00000a",
+      "type": "list",
+      "body": "What are the genotypes of Japanese Encephalitis Virus (JEV)?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "65d373151930410b13000048",
+      "type": "list",
+      "body": "What medication were tested in the TRICOTEL trial?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66214ff0b9f8b89d7e000006",
+      "type": "list",
+      "body": "What are the most frequent side effects of regorafenib?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662cf8db187cba990d000003",
+      "type": "yesno",
+      "body": "Is Periostin a novel biomarker of TH2-driven asthma?"
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+
+    },
+    {
+      "id": "66168a89fdcbea915f000054",
+      "type": "summary",
+      "body": "Burkitt lymphoma and Epstein-Barr virus.",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "663020de187cba990d00002c",
+      "type": "list",
+      "body": "What tumor suppressor genes are commonly affected by glioblastoma mutations or deletions?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "6630211d187cba990d00002d",
+      "type": "yesno",
+      "body": "Is there an association between specific genotypes and the risk of ASD for Duchenne Muscular Dystrophy?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "65d144b81930410b13000041",
+      "type": "factoid",
+      "body": "Coffee Bean Sign is characteristic to which disease?",
+	  "exact_answer": [["Parkinson’s Disease"]],
+      "ideal_answer": "Coffee Bean Sign is characteristic to Parkinson’s Disease "
+    },
+    {
+      "id": "662fc351187cba990d000014",
+      "type": "summary",
+      "body": "What role does epiregulin and amphiregulin play in the use of EGFR inhibitors for colorectal cancer?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662cfc88187cba990d000008",
+      "type": "factoid",
+      "body": "What process does tRNA nucleotidyl transferase 1 (TRNT1)  catalyze?",
+	  "exact_answer": [["transfer of a nucleoside 5′-monophosphate moiety"]],
+      "ideal_answer": "tRNA nucleotidyl transferase 1 (TRNT1) catalyzes the transfer of a nucleoside 5′-monophosphate moiety from a nucleoside 5′-monophosphate to"
+
+    },
+    {
+      "id": "6614f810fdcbea915f000043",
+      "type": "list",
+      "body": "What are the causes for heart and lung transplantation in children?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662edc6f187cba990d00000c",
+      "type": "yesno",
+      "body": "Can enhancer-promoter interactions form independently of genomic distance?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "66300d3e187cba990d00001b",
+      "type": "factoid",
+      "body": "What is the prevalence of intellectual developmental disorders in Becker Muscular Dystrophy?",
+	  "exact_answer": [["not known"]],
+	  "ideal_answer": "The prevalence of intellectual developmental disorders in Becker Muscular Dystrophy is not known."
+    },
+    {
+      "id": "65cfdf1c1930410b13000028",
+      "type": "factoid",
+      "body": "Mutation of which gene was implicated in Disabling pansclerotic morphea?",
+	  "exact_answer": [["COL3A1"]],
+      "ideal_answer": "COL3A1 gene mutation was involved in Disabling pansclerotic morphea"
+    },
+    {
+      "id": "662fc122187cba990d000012",
+      "type": "yesno",
+      "body": "Does physical exercise reduce the risk of recurrence from colorectal cancer?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "662a4b08b9f8b89d7e00000b",
+      "type": "factoid",
+      "body": "Oxysterol is produced by the oxidation of what waxy, fat-like substance made in the liver?",
+	  "exact_answer": [["Cholesterol"]],
+	  "ideal_answer": "Cholesterol is the substance responsible for producing Oxyterol"
+    },
+    {
+      "id": "65f84c78c4010b4d78000049",
+      "type": "yesno",
+      "body": "Is bowel transplantation commonly performed in patients with severe gastrointestinal disease?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "6630154c187cba990d000021",
+      "type": "factoid",
+      "body": "Which chromosome is most commonly affected by loss of heterozygosity in glioblastoma?",
+	  "exact_answer": [["Chromosome 1p"]],
+      "ideal_answer": "Chromosome 1p is most commonly affected by loss of heterozygosity in glioblastoma"
+    },
+    {
+      "id": "663023f3187cba990d000030",
+      "type": "summary",
+      "body": "What is KineDMD?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "65d12a181930410b1300002f",
+      "type": "yesno",
+      "body": "Can fluoroquinolones be used for patient with myasthenia gravis?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "66099eb9fdcbea915f000026",
+      "type": "yesno",
+      "body": "Are BRAF V600E mutation associated to worse prognosis in colorectal cancer patients?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "662cfadc187cba990d000006",
+      "type": "summary",
+      "body": "Circular RNAs (circRNAs) are a distinct family of RNAs, how are they derived?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66169f9bfdcbea915f000057",
+      "type": "summary",
+      "body": "Transgender identity and mortality.",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "663016bb187cba990d000023",
+      "type": "factoid",
+      "body": "Which genetic alteration is most commonly associated with the classical subtype of glioblastoma?",
+	  "exact_answer": [["EGFR amplification"]],
+	  "ideal_answer": "EGFR amplification is the most common genetic alteration associated with the classical subtype of glioblastoma "
+    },
+    {
+      "id": "66302487187cba990d000031",
+      "type": "factoid",
+      "body": "What is PUL-2 in Duchenne Muscular Dystrophy?",
+	  "exact_answer": [["protein dystrophin"]],
+	  "ideal_answer": "Duchenne muscular dystrophy (DMD) is the most common type of muscular dystrophy and is caused by mutations in the gene that encodes the protein dystrophin. PUL-2"
+    },
+    {
+      "id": "65cfac201930410b13000013",
+      "type": "summary",
+      "body": "What is the mechanism of action of Mezigdomide?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66099907fdcbea915f000015",
+      "type": "factoid",
+      "body": "What is the average median survival for advanced colorectal cancer patients?",
+	  "exact_answer": [["24 months"]],
+      "ideal_answer": "24 months is the average median survival for advanced colorectal cancer patients"
+    },
+    {
+      "id": "662cfa24187cba990d000005",
+      "type": "summary",
+      "body": "What is the function of the mTORC1 kinase?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "6616a122fdcbea915f000058",
+      "type": "yesno",
+      "body": "Has statin use been associated with a higher risk of dementia?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "6630254b187cba990d000032",
+      "type": "yesno",
+      "body": "Is DNA methylation always associated with gene silencing?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "66302174187cba990d00002e",
+      "type": "yesno",
+      "body": "Are there any digital biomarkers for Duchenne Muscular Dystrophy?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "65cfd2681930410b1300001e",
+      "type": "summary",
+      "body": "How should Insulin icodec be administered?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66099ba9fdcbea915f000022",
+      "type": "yesno",
+      "body": "Is FOLFIRI plus Aflibercept a cost-effective treatment in patients with advanced colorectal caner?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "662cf96f187cba990d000004",
+      "type": "list",
+      "body": "Please list some treatment options for bone marrow edema syndrome,",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66150639fdcbea915f000047",
+      "type": "list",
+      "body": "What is the immediate treatment after a sexual assault?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "6630562c187cba990d000036",
+      "type": "summary",
+      "body": "What is the potential role of the tumor microenvironment and factors like stem cells in contributing to the recurrence of glioblastoma?",
+	  "ideal_answer": ""
+	},
+    {
+      "id": "663020d7187cba990d00002b",
+      "type": "yesno",
+      "body": "Is there an association between specific genotypes and the risk of ADHD for Duchenne Muscular Dystrophy?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "65cfd8551930410b13000023",
+      "type": "yesno",
+      "body": "Is vemurafenib–cobimetinib promising for craniopharyngioma?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"
+    },
+    {
+      "id": "66214db9b9f8b89d7e000004",
+      "type": "summary",
+      "body": "What is the molecular mechanism by which Bacteroides Fragilis is associated to colorectal cancer development?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662cfbf5187cba990d000007",
+      "type": "factoid",
+      "body": "Where in the body would the globus pallidus be found?",
+	  "exact_answer": [["brain"]],
+	  "ideal_answer": "The globus pallidus is part of the basal ganglia and is found in the subcortical region of the brain."
+    },
+    {
+      "id": "66151045fdcbea915f000048",
+      "type": "factoid",
+      "body": "What is the approximate prevalence of autoimmune diseases?",
+	  "exact_answer": [["4% - 10%"]],
+      "ideal_answer": "The prevalence of autoimmune diseases is estimated to be between 4% and 10% of the population."
+    },
+    {
+      "id": "662ee24a187cba990d00000d",
+      "type": "summary",
+      "body": "What is the role of Isocitrate dehydrogenase (IDH) mutations in glioma?",
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66301fcb187cba990d000029",
+      "type": "yesno",
+      "body": "Is there an association between specific genotypes and the risk of neurodevelopmental disorders for Becker Muscular Dystrophy?",
+	  "ideal_answer": "",
+	  "exact_answer": "yes"   
+   },
+    {
+      "id": "65d375b31930410b1300004b",
+      "type": "list",
+      "body": "What medication are included in the Juvisync pill?",
+	  "exact_answer": [[""]],
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66214cc6b9f8b89d7e000003",
+      "type": "yesno",
+      "body": "Is fish intake a protective factor against colorectal cancer?"
+    },
+    {
+      "id": "6616b259fdcbea915f00005a",
+      "type": "summary",
+      "body": "What is the exposome?"
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66156200fdcbea915f00004d",
+      "type": "factoid",
+      "body": "What is the gold standard for a diagnosis of narcolepsy?"
+	  "exact_answer": [["MSLT and PSG"]]
+	  "ideal_answer": "Multiple sleep latency test (MSLT) and polysomnography (PSG)"
+    },
+    {
+      "id": "6630390b187cba990d000035",
+      "type": "factoid",
+      "body": "Which receptor tyrosine kinase is commonly mutated or amplified in pediatric glioma cases?"
+	  "exact_answer": [["PDGFRA"]]
+	  "ideal_answer": "PDGFRA is commonly mutated or amplified in pediatric glioma cases"
+    },
+    {
+      "id": "66300c23187cba990d00001a",
+      "type": "yesno",
+      "body": "Can procalcitonin be used as a predictor for mortality in paediatric sepsis?"
+    },
+    {
+      "id": "66214c5db9f8b89d7e000002",
+      "type": "factoid",
+      "body": "What is the race with the highest incidence of colorectal cancer?"
+	  "exact_answer": [["Caucasians"]]
+      "ideal_answer": "Caucasians have the highest incidence of colorectal cancer"
+    },
+    {
+      "id": "662cfd21187cba990d000009",
+      "type": "factoid",
+      "body": "LRP6 is a member of what  superfamily of cell-surface receptors?"
+	  "exact_answer": [["Wnt receptors"]]
+	  "ideal_answer": "Wnt receptors is the superfamily of cell-surface receptors that includes LRP6"
+    },
+    {
+      "id": "661686e4fdcbea915f000052",
+      "type": "list",
+      "body": "List of major risks of intrauterine device."
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66301e04187cba990d000027",
+      "type": "factoid",
+      "body": "What are episignatures?"
+	  "exact_answer": [["differentially methylated sets of genes"]]
+	  "ideal_answer": "Episignatures are sets of genes that are differentially methylated between two or more biological states. Episignatures can be used to predict the biological state of a sample based on its methylation profile."
+    },
+    {
+      "id": "66215690b9f8b89d7e00000a",
+      "type": "yesno",
+      "body": "Is chemotherapy an effective treatment for patients with advance colorectal cancer and poor performance status (ECOG/PS \u003e1)"
+    },
+    {
+      "id": "663027bb187cba990d000033",
+      "type": "summary",
+      "body": "How does Pamrevlumab work?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662fbec6187cba990d00000f",
+      "type": "factoid",
+      "body": "What are the clinical indication for Transarterial Chemoembolization (TACE) in liver metastasis for colorectal cancer?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": "Liver metastasis from colorectal cancer to be treated with TACE depends on the number of liver metastases, the size of the largest metastatic lesion, the presence of extrahepatic metastases, the"
+    },
+    {
+      "id": "663014c8187cba990d000020",
+      "type": "summary",
+      "body": "What is Alzheimer\u0027s disease?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662fbfc4187cba990d000010",
+      "type": "yesno",
+      "body": "Is short-course radiation therapy a cost-effective therapy in the neoadjuvant treatment of locally advanced rectal cancer?"
+    },
+    {
+      "id": "66301f5a187cba990d000028",
+      "type": "yesno",
+      "body": "Are there any episignatures for Duchenne Muscular Dystrophy?"
+    },
+    {
+      "id": "6621506cb9f8b89d7e000007",
+      "type": "list",
+      "body": "What are the minimum molecular determinations necessary for the initial treatment of advanced colorectal cancer in clinical practice?"
+   	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+   },
+    {
+      "id": "66301c47187cba990d000025",
+      "type": "list",
+      "body": "What are the most common issues that need to be addressed in adults with Duchenne Muscular Dystrophy?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "6621510eb9f8b89d7e000008",
+      "type": "list",
+      "body": "What histological features are described in colorectal tumors with BRAF mutation?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "662e44e9187cba990d00000b",
+      "type": "yesno",
+      "body": "Is vaccination against all arboviruses indicated for pregnant women?"
+    },
+    {
+      "id": "662fc4b1187cba990d000016",
+      "type": "list",
+      "body": "What are the mechanisms of action of regorafenib on tumor cells?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "661d5fe1eac11fad33000024",
+      "type": "list",
+      "body": "What are the types of Polycystic Kidney Disease?"
+    },
+    {
+      "id": "66214f52b9f8b89d7e000005",
+      "type": "yesno",
+      "body": "Is tumor expression of Topoisomerase I a biomarker of response to irinotecan in colorectal cancer patients therapy?"
+    },
+    {
+      "id": "662f401b187cba990d00000e",
+      "type": "yesno",
+      "body": "Is Vitamin D deficiency associated with sepsis mortality?"
+    },
+    {
+      "id": "66214b9cb9f8b89d7e000001",
+      "type": "list",
+      "body": "Which countries have a higher incidence of colorectal cancer?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66302978187cba990d000034",
+      "type": "list",
+      "body": "What are the primary and secondary endpoints of Pamrevlumab?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "66099ac8fdcbea915f00001f",
+      "type": "list",
+      "body": "What are the mechanisms of secondary resistance to anti-EGFR monoclonal antibodies in colorectal cancer treatment?"
+	  "exact_answer": [[""]]
+	  "ideal_answer": ""
+    },
+    {
+      "id": "661d19d5eac11fad33000007",
+      "type": "yesno",
+      "body": "Can the neonatal Pediatric Sepsis Biomarker Risk Model (nPERSEVERE) accurately predict mortality in neonatal sepsis?"
+    },
+    {
+      "id": "662fc0bc187cba990d000011",
+      "type": "yesno",
+      "body": "Can calcium dietary supplementation reduce the risk of colorectal cancer?"
+    },
+    {
+      "id": "66300ee7187cba990d00001c",
+      "type": "factoid",
+      "body": "What is the prevalence of intellectual developmental disorders in Duchenne Muscular Dystrophy?"
+	  "exact_answer": [["20%-30%"]]
+	  "ideal_answer": "The prevalence of intellectual developmental disorders in Duchenne Muscular Dystrophy (DMD) is estimated to be between 20% and 30%."
+    },
+    {
+      "id": "660999bffdcbea915f00001b",
+      "type": "yesno",
+      "body": "Is treatment with acetyl salicylic acid indicated to prevent colorectal adenomas?"
+    }
+  ]
+}
