@@ -12,6 +12,7 @@ from string import punctuation
 import evaluate
 from bert_score import BERTScorer
 from evaluate import evaluator
+from tqdm import tqdm
 
 from config.eval_config import get_config_eval
 from database.faiss import FaissIndexer
@@ -72,21 +73,27 @@ if __name__ == '__main__':
     cfg = get_config_eval()
     model , tokenizer  = get_model()
     rouge = evaluate.load('rouge')
+    final_F1_list, final_R_list, final_P_list, final_rouge_list, final_rouge1_list = [],[],[],[],[]
 
     with open(cfg.training_data, 'r') as f:
         data = json.load(f)['questions']
+
+    predictions_file =  open(f'Predictions/predictions_training11b_{cfg.task}_{cfg.model}.txt','w')
     entry_num = 0
-    for entry in data:
+
+    for entry in tqdm(data[:200]):
         text = []
         if entry['type'] == 'list':
             i=0
             answers_list = []
             question = entry['body']
             exact_answers =  entry['exact_answer']
-            print("Question:", question)
-            print("Exact Answer:", exact_answers) 
+            #print("Question:", question)
+           # print("Exact Answer:", exact_answers) 
+            predictions_file.write( f"Question: {question} \n")
+            predictions_file.write( f"Exact Answer: {exact_answers} \n")
            # corpus = faiss.search(question).splitlines()
-            print(f"file name: {entry_num}.txt")
+           # print(f"file name: {entry_num}.txt")
             corpus= get_processed_doc_content(f"{entry_num}.txt").splitlines()
            # print(f"corpus {corpus}")
             if corpus == None:
@@ -115,18 +122,23 @@ if __name__ == '__main__':
                         answers_list[indx] = remove_word_from_list(answers_list[indx], most_common_phrase)
                 else:
                     break
-            print(f"Final Answer: {final_answers_list}")
-
-            final_F1_list, final_R_list, final_P_list, final_rouge_list, final_rouge1_list = [],[],[],[],[]
+            # print(f"Final Answer: {final_answers_list}")
+            predictions_file.write( f"Predicted Answer: {final_answers_list} \n")
+            predictions_file.write( f"------------------------------------------------------------------------------------------------------------ \n")
             for exact_answer in exact_answers:
                 for answer  in final_answers_list:
                     F1_list, R_list, P_list, rouge_list, rouge1_list = [],[],[],[],[]
                     scorer = BERTScorer(model_type='bert-base-uncased') #scorer.score([candidate], [reference])
-                    P, R, F1 = scorer.score([answer], [exact_answer]) # rouge.compute(predictions=predictions,references=references)
+                    prediction = answer
+                    reference = exact_answer
+                    if len(reference) > 1:
+                        reference = [" ".join(exact_answer) ]
+
+                    P, R, F1 = scorer.score([prediction], [reference]) # rouge.compute(predictions=predictions,references=references)
                     
                  #   print(f"BERTScore : Precision: {P.mean():.4f}, Recall: {R.mean():.4f}, F1: {F1.mean():.4f}")
-
-                    rouge_results = rouge.compute(predictions=[answer],references=exact_answer)
+                    #print([answer], [exact_answer])
+                    rouge_results = rouge.compute(predictions=[prediction],references=[reference])
 
                     F1_list.append(F1.mean())
                     R_list.append(R.mean())
@@ -135,18 +147,19 @@ if __name__ == '__main__':
                     rouge1_list.append(rouge_results['rouge1'])
                 index_max = np.argmax(rouge1_list.copy())
 
-                final_F1_list.append(F1_list[index_max])
-                final_R_list.append(R_list[index_max])
-                final_P_list.append(P_list[index_max])
-                final_rouge_list.append(rouge_list[index_max])
-                final_rouge1_list.append(rouge1_list[index_max])
-                print(f"BERTScore: Precision: {P_list[index_max]:.4f}, Recall: {R_list[index_max]:.4f}, F1: {F1_list[index_max]:.4f}")
-                print(f"ROUGE 1 Score: {rouge1_list[index_max]:.4f}")
+            final_F1_list.append(F1_list[index_max])
+            final_R_list.append(R_list[index_max])
+            final_P_list.append(P_list[index_max])
+            final_rouge_list.append(rouge_list[index_max])
+            final_rouge1_list.append(rouge1_list[index_max])
+            # print(f"BERTScore: Precision: {P_list[index_max]:.4f}, Recall: {R_list[index_max]:.4f}, F1: {F1_list[index_max]:.4f}")
+            # print(f"ROUGE 1 Score: {rouge1_list[index_max]:.4f}")
+        entry_num += 1 
            
+    print(f"Final Evaluation Results: ")
+    print('Average F1 score: ', torch.stack(final_F1_list).mean(dim=0).item())
+    print('Average Recall score: ', torch.stack(final_R_list).mean(dim=0).item() )
+    print('Average Precision score: ', torch.stack(final_P_list).mean(dim=0).item() )           
+    print('Average ROUGE 1 score: ', statistics.mean(final_rouge1_list)   )
+    predictions_file.close()
            
-            print(f"Final Evaluation Results: ")
-            print('Average F1 score: ', torch.stack(final_F1_list).mean(dim=0).item())
-            print('Average Recall score: ', torch.stack(final_R_list).mean(dim=0).item() )
-            print('Average Precision score: ', torch.stack(final_P_list).mean(dim=0).item() )           
-            print('Average ROUGE 1 score: ', statistics.mean(final_rouge1_list)   )
-        entry_num += 1    
